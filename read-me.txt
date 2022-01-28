@@ -1,0 +1,2 @@
+The PARSTA corpus is the first parallel TD speech corpus with MSA transcriptions. 
+The corpus package will be a CSV shape file consisting of the TD transcripts and its corresponding alignments in MSA.
